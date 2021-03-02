@@ -1,0 +1,24 @@
+
+.li{
+    text-decoration: none;
+    color: white;
+    list-style-type: none;
+    display: inline;
+}
+.li:hover{
+    text-decoration: underline;
+    text-shadow: 2px 0px 8px cyan;
+}
+#hello a:hover{
+    text-decoration: none;
+}
+#map iframe{
+    width: 50%;
+    float: left;
+}
+html{
+    scroll-behavior: smooth;
+}
+#textOMG{
+    text-align: center;
+}
